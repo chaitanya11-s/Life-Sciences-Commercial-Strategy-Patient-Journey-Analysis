@@ -7,7 +7,12 @@ This project delivers a comprehensive commercial intelligence analysis for the b
 - **Master Patient Database**: Analysis of 5,460+ synthetic patient records matched to 60 real-world clinical trials (ClinicalTrials.gov).
 - **Conference Coverage**: Simulated intelligence reports from ASCO, ESMO, and SABCS, synthesizing expert perspectives on emerging trends.
 - **Interactive Dashboard**: A Streamlit-based analytics dashboard tracking 15+ KPIs including trial success rates, patient demographics, and competitor pipelines.
+
+![Dashboard Preview](images/dashboard_preview.png)
+
 - **Commercial Strategy**: A strategic report identifying high-value opportunities in the HER2-low and TNBC segments.
+
+![Strategy Slide Preview](images/strategy_preview.png)
 
 ## Repository Structure
 ```
