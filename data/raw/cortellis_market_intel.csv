@@ -1,0 +1,21 @@
+Drug,Company,Phase,Mechanism_of_Action,Target_Launch,Peak_Sales_Estimate_USD,Status,Competitive_Tier
+Camizestrant,AstraZeneca,Phase III,SERD,2025,1.5B,Active,Tier 1
+Imlunestrant,Lilly,Phase III,SERD,2026,1.2B,Active,Tier 1
+Giredestrant,Roche,Phase III,SERD,2026,1.0B,Active,Tier 1
+Datopotamab Deruxtecan,Daiichi Sankyo/AstraZeneca,Phase III,T-DXd ADC,2025,2.5B,Active,Tier 1
+Sacituzumab Govitecan,Gilead,Approved (Expanded),Trop-2 ADC,2024,3.0B,Active,Tier 1
+Trastuzumab Deruxtecan,AstraZeneca/Daiichi,Approved (Expanded),HER2 ADC,2024,5.0B,Active,Tier 1
+Capivasertib,AstraZeneca,Approved,AKT Inhibitor,2024,1.0B,Active,Tier 2
+Samuraciclib,Carrick Therapeutics,Phase II,CDK7 Inhibitor,2027,500M,Active,Tier 3
+Vepdegestrant,Pfizer/Arvinas,Phase III,PROTAC,2026,1.8B,Active,Tier 1
+Elacestrant,Menarini,Approved,SERD,2023,800M,Active,Tier 2
+Inavolisib,Roche,Phase III,PI3K Inhibitor,2025,1.2B,Active,Tier 1
+Tinengotinib,TransThera,Phase II,FGFR Inhibitor,2027,300M,Active,Tier 3
+Lasofoxifene,Sermonix,Phase III,SERM,2026,400M,Active,Tier 3
+Bapotulimab,Innovent,Phase II,Anti-CD47,2028,600M,Active,Tier 3
+Zanidatamab,Jazz/Zymeworks,Phase III,Bispecific HER2,2026,900M,Active,Tier 2
+Patritumab Deruxtecan,Daiichi Sankyo,Phase III,HER3 ADC,2026,1.5B,Active,Tier 1
+ARV-471,Pfizer,Phase III,PROTAC,2026,1.5B,Active,Tier 1
+Mavrilimumab,Kiniksa,Phase II,GM-CSF outlier,2028,200M,Active,Tier 3
+Endoxifen,Atossa,Phase II,PKC Inhibitor,2027,350M,Active,Tier 3
+Onapristone,Context,Phase II,Progesterone Antagonist,2027,250M,Active,Tier 3
